@@ -1,0 +1,14 @@
+Description:
+
+The idea of the project is to use  Emotiv Epoc Sensor  to acquire EEG signals ​
+from​ ​ the​ ​ brain​ ​ then​ ​ we used ​ digital​ ​ signal
+processing​ ​ and​ ​ KNN​ ​ calssifier​ ​ ​ to​ ​ get​ ​ a ​ ​ unique​ ​ signal​ ​ to​ ​ move
+artificial​ ​ arm . 
+
+Tools:
+-numpy 
+-sklearn
+-matplotlib 
+-Emotiv Epoc Sensor 
+-Arduino
+-Servo motor
